@@ -1,0 +1,2 @@
+# utl_creating_sas7bdat_from_32bit_or_64bit_ms-access_table_using_wps_express_proc_R
+Creating a sas7bdat from 32bit or 64bit MS-Access table using WPS Express proc R.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
